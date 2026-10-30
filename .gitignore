@@ -1,0 +1,6 @@
+*.log
+.DS_Store
+.idea/
+.vscode/
+mysql_health_*.txt
+innodb_status_*.txt
